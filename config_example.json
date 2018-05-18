@@ -1,6 +1,6 @@
 {
-    "coin": "monero",
-    "symbol": "XMR",
+    "coin": "CryptonoteEvo",
+    "symbol": "EVO",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 120,
 
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "4A2Gv6uMc3vZsGMTEMnBsgaJMtQeEBCzaigneqJN8bzkTit2Di5MVm2fjE9rfWMz4yMVxSBL3Q9QzbafXUBXzUcANNnjjEn",
+        "poolAddress": "1P5mz1ADA42z3hsi2tj9R1TWNynUfMBPxT",
         "blockRefreshInterval": 100,
         "blockRefreshForce": 100,
         "minerTimeout": 900,
