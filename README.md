@@ -528,4 +528,6 @@ Credits
  * MRO: `48Y4SoUJM5L3YXBEfNQ8bFNsvTNsqcH5Rgq8RF7BwpgvTBj2xr7CmWVanaw7L4U9MnZ4AG7U6Pn1pBhfQhFyFZ1rL1efL8z`
 * [clintar] (https://github.com/clintar) Updates to support nodejs >0.10 and continuing updates
 
-back to main page : https://github.com/FndNur1Labs/CryptonoteEvo
+## Donation Support
+
+https://github.com/FndNur1Labs/CryptonoteEvo
